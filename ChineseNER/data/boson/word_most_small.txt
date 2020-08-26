@@ -1,0 +1,4 @@
+整/O 个/O 移/O 动/O 市/O 场/O 的/O 发/O 展/O 对/O 于/O 谷/B_company_name 歌/E_company_name 也/O 是/O 有/O 利/O 可/O 图/O 的/O
+\/O n/O \/O n/O  /O 　/O 　/O 5/B_time 月/M_time 2/M_time 6/M_time 日/M_time 下/M_time 午/E_time
+在/O 大/B_location 麦/M_location 屿/M_location 港/M_location 台/M_location 商/M_location 城/M_location 北/M_location 面/E_location
+汇/B_location 丰/M_location 东/M_location 路/E_location
