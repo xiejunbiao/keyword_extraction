@@ -69,7 +69,8 @@ class CheckData(object):
         for line in f.readlines():
             each_data = line.replace('\n', '').replace(' ', '').replace(',', '').split('\t')
             if len(each_data) == 3:
-                data['data'].append({'spu_name': ','.join(each_data[:2]), 'cls': each_data[2]})
+                data['data'].append({'spu_name': '&'.join(each_data[:2]), 'cls': each_data[2]})
+                print('&'.join(each_data[:2]))
             else:
                 data['valid'].append(each_data)
         return data
